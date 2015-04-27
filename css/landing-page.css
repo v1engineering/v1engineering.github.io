@@ -164,7 +164,12 @@ h6 {
     }
 }
 
+a.bottom-links {
+    color:#456AB4;
+}
+
 footer {
+
     padding: 50px 0;
     background-color: #f8f8f8;
 }
