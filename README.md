@@ -1,3 +1,4 @@
+The Landing Page template in this Git repository was Edited by v1.0 Engineering, April 2014 (README Unchanged).
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
